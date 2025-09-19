@@ -1,0 +1,1 @@
+# Discovery Science Mindset Site\n\nNext.js + Tailwind landing page and blog.
